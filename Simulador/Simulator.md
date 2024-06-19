@@ -12,6 +12,8 @@ Application used for creating a layout by adding Objects, Walls, Move Points and
 
 **Tab Control**
 - File: Include or Save in a file.
+  - Get Object: get an object that was already created
+  - Create/Edit Object: opens the window for creating a new object
 
 - Insert Object: Insert in your layout a selected object in a specific position.
 
