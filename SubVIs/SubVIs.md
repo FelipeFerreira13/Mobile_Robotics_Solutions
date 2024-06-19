@@ -1,6 +1,6 @@
 # SubVIs
 
-The SubVIs tab provide most of the tools that this project provides for movement and sensoring.
+The SubVIs tab provide most of the tools for movement and sensoring.
 
 ![image](https://github.com/FelipeFerreira13/Mobile_Robotics_Solutions/assets/103584400/4791f0df-382e-4c36-9d7a-29667ef28af5)
 
